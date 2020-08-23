@@ -1,0 +1,10 @@
+{
+    "uuid": "%uuid%",
+    "name": "Debug Command",
+    "mainClass": "de.raik.debugaddon.DebugAddon",
+    "description": "Opens the debug console with a command",
+    "version": 1,
+    "author": "MineFlash07",
+    "category": 2,
+    "icon": "https://image.flaticon.com/icons/png/512/1541/1541402.png"
+}
